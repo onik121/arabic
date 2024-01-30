@@ -113,12 +113,12 @@ body{
    display: flex;
    align-items: center;
    justify-content: space-between;
-   gap: 40px;
    text-align: left;
 }
 
 .onik-div img{
    width: 80px;
+   margin-right: 40px;
 }
 
 .onik-div h4{
@@ -325,7 +325,6 @@ body{
 .marquee-content li > div{
    display: flex;
    align-items: center;
-   gap: 20px;
 }
 
 .marquee-content li div h5{
@@ -336,6 +335,7 @@ body{
 
 .marquee-content li img {
   width: 75px;
+  margin-right: 20px;
 }
 
 @media (max-width: 600px) {
