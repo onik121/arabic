@@ -101,7 +101,7 @@ body{
    background: rgba(255, 255, 255, .7);
    border-radius: 5px;
    left: 20px;
-   padding: 10px 20px;
+   padding: 10px 30px;
    text-align: center;
 }
 
@@ -113,7 +113,7 @@ body{
    display: flex;
    align-items: center;
    justify-content: space-between;
-   gap: 30px;
+   gap: 40px;
    text-align: left;
 }
 
@@ -134,7 +134,7 @@ body{
    background: rgba(255, 255, 255, .7);
    border-radius: 5px;
    right: 20px;
-   padding: 10px 20px;
+   padding: 10px 30px;
    text-align: center;
 }
 
@@ -325,7 +325,7 @@ body{
 .marquee-content li > div{
    display: flex;
    align-items: center;
-   gap: 10px;
+   gap: 20px;
 }
 
 .marquee-content li div h5{
